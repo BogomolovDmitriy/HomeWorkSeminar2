@@ -1,0 +1,15 @@
+D:\Programs\Обучение программированию\Seminar2\Exercise9\obj\Debug\net6.0\Exercise9.csproj.AssemblyReference.cache
+D:\Programs\Обучение программированию\Seminar2\Exercise9\obj\Debug\net6.0\Exercise9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Обучение программированию\Seminar2\Exercise9\obj\Debug\net6.0\Exercise9.AssemblyInfoInputs.cache
+D:\Programs\Обучение программированию\Seminar2\Exercise9\obj\Debug\net6.0\Exercise9.AssemblyInfo.cs
+D:\Programs\Обучение программированию\Seminar2\Exercise9\obj\Debug\net6.0\Exercise9.csproj.CoreCompileInputs.cache
+D:\Programs\Обучение программированию\Seminar2\Exercise9\bin\Debug\net6.0\Exercise9.exe
+D:\Programs\Обучение программированию\Seminar2\Exercise9\bin\Debug\net6.0\Exercise9.deps.json
+D:\Programs\Обучение программированию\Seminar2\Exercise9\bin\Debug\net6.0\Exercise9.runtimeconfig.json
+D:\Programs\Обучение программированию\Seminar2\Exercise9\bin\Debug\net6.0\Exercise9.dll
+D:\Programs\Обучение программированию\Seminar2\Exercise9\bin\Debug\net6.0\Exercise9.pdb
+D:\Programs\Обучение программированию\Seminar2\Exercise9\obj\Debug\net6.0\Exercise9.dll
+D:\Programs\Обучение программированию\Seminar2\Exercise9\obj\Debug\net6.0\refint\Exercise9.dll
+D:\Programs\Обучение программированию\Seminar2\Exercise9\obj\Debug\net6.0\Exercise9.pdb
+D:\Programs\Обучение программированию\Seminar2\Exercise9\obj\Debug\net6.0\Exercise9.genruntimeconfig.cache
+D:\Programs\Обучение программированию\Seminar2\Exercise9\obj\Debug\net6.0\ref\Exercise9.dll
