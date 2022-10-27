@@ -1,0 +1,15 @@
+D:\Programs\Обучение программированию\Seminar2\Exercise15\obj\Debug\net6.0\Exercise15.csproj.AssemblyReference.cache
+D:\Programs\Обучение программированию\Seminar2\Exercise15\obj\Debug\net6.0\Exercise15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Обучение программированию\Seminar2\Exercise15\obj\Debug\net6.0\Exercise15.AssemblyInfoInputs.cache
+D:\Programs\Обучение программированию\Seminar2\Exercise15\obj\Debug\net6.0\Exercise15.AssemblyInfo.cs
+D:\Programs\Обучение программированию\Seminar2\Exercise15\obj\Debug\net6.0\Exercise15.csproj.CoreCompileInputs.cache
+D:\Programs\Обучение программированию\Seminar2\Exercise15\bin\Debug\net6.0\Exercise15.exe
+D:\Programs\Обучение программированию\Seminar2\Exercise15\bin\Debug\net6.0\Exercise15.deps.json
+D:\Programs\Обучение программированию\Seminar2\Exercise15\bin\Debug\net6.0\Exercise15.runtimeconfig.json
+D:\Programs\Обучение программированию\Seminar2\Exercise15\bin\Debug\net6.0\Exercise15.dll
+D:\Programs\Обучение программированию\Seminar2\Exercise15\bin\Debug\net6.0\Exercise15.pdb
+D:\Programs\Обучение программированию\Seminar2\Exercise15\obj\Debug\net6.0\Exercise15.dll
+D:\Programs\Обучение программированию\Seminar2\Exercise15\obj\Debug\net6.0\refint\Exercise15.dll
+D:\Programs\Обучение программированию\Seminar2\Exercise15\obj\Debug\net6.0\Exercise15.pdb
+D:\Programs\Обучение программированию\Seminar2\Exercise15\obj\Debug\net6.0\Exercise15.genruntimeconfig.cache
+D:\Programs\Обучение программированию\Seminar2\Exercise15\obj\Debug\net6.0\ref\Exercise15.dll
