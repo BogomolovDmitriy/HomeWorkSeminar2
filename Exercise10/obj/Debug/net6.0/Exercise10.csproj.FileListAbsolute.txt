@@ -1,0 +1,15 @@
+D:\Programs\Обучение программированию\Seminar2\Exercise10\obj\Debug\net6.0\Exercise10.csproj.AssemblyReference.cache
+D:\Programs\Обучение программированию\Seminar2\Exercise10\obj\Debug\net6.0\Exercise10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programs\Обучение программированию\Seminar2\Exercise10\obj\Debug\net6.0\Exercise10.AssemblyInfoInputs.cache
+D:\Programs\Обучение программированию\Seminar2\Exercise10\obj\Debug\net6.0\Exercise10.AssemblyInfo.cs
+D:\Programs\Обучение программированию\Seminar2\Exercise10\obj\Debug\net6.0\Exercise10.csproj.CoreCompileInputs.cache
+D:\Programs\Обучение программированию\Seminar2\Exercise10\bin\Debug\net6.0\Exercise10.exe
+D:\Programs\Обучение программированию\Seminar2\Exercise10\bin\Debug\net6.0\Exercise10.deps.json
+D:\Programs\Обучение программированию\Seminar2\Exercise10\bin\Debug\net6.0\Exercise10.runtimeconfig.json
+D:\Programs\Обучение программированию\Seminar2\Exercise10\bin\Debug\net6.0\Exercise10.dll
+D:\Programs\Обучение программированию\Seminar2\Exercise10\bin\Debug\net6.0\Exercise10.pdb
+D:\Programs\Обучение программированию\Seminar2\Exercise10\obj\Debug\net6.0\Exercise10.dll
+D:\Programs\Обучение программированию\Seminar2\Exercise10\obj\Debug\net6.0\refint\Exercise10.dll
+D:\Programs\Обучение программированию\Seminar2\Exercise10\obj\Debug\net6.0\Exercise10.pdb
+D:\Programs\Обучение программированию\Seminar2\Exercise10\obj\Debug\net6.0\Exercise10.genruntimeconfig.cache
+D:\Programs\Обучение программированию\Seminar2\Exercise10\obj\Debug\net6.0\ref\Exercise10.dll
